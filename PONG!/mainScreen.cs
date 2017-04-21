@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 //create by He Yuanhua
-//create time: 20170421
+//create time: 20170420
 
 namespace PONG_
 {
