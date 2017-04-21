@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//create by He Yuanhua
+//create by Wah He
 //create time: 20170420
 
 namespace PONG_
